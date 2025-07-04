@@ -118,5 +118,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 🎥 命令行演示
 
-[![asciicast](https://asciinema.org/a/abcdef123456.svg)]([https://asciinema.org/a/abcdef123456](https://asciinema.org/connect/aa27c072-a7f3-4908-b05c-1891c6dd1707))
+[![asciicast](https://asciinema.org/a/aa27c072-a7f3-4908-b05c-1891c6dd1707.svg)]([https://asciinema.org/a/abcdef123456](https://asciinema.org/connect/aa27c072-a7f3-4908-b05c-1891c6dd1707))
 
