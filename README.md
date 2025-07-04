@@ -115,3 +115,8 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## 🎥 命令行演示
+
+[![asciicast](https://asciinema.org/a/abcdef123456.svg)]([https://asciinema.org/a/abcdef123456](https://asciinema.org/connect/aa27c072-a7f3-4908-b05c-1891c6dd1707))
+
